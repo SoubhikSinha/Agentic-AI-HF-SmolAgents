@@ -1,1 +1,1 @@
-# Agentic-AI-HF-SmolAgents
+# Agentic AI @ `HuggingFace's SmolAgents`
