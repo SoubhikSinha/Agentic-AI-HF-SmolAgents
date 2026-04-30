@@ -1,0 +1,10 @@
+ipykernel
+smolagents
+litellm
+python-dotenv
+ddgs
+pandas
+bs4
+matplotlib
+yfinance
+huggingface_hub
